@@ -2,7 +2,7 @@
 let doneState = {};
 let currentWeekIndex = 0;
 let searchQuery = "";
-
+// Data variables
 // Initialize application
 document.addEventListener("DOMContentLoaded", () => {
   initTheme();
